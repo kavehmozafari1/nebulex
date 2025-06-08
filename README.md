@@ -16,9 +16,6 @@ underlying caching implementations, such as [Redis][redis]
 or even other Elixir cache implementations like
 [Cachex][cachex]. Additionally, it provides totally out-of-box features such as
 [cache usage patterns][cache_patterns],
-[declarative annotation-based caching][nbx_caching], and
-[distributed cache topologies][cache_topologies], among others.
-
 See the [getting started guide](http://hexdocs.pm/nebulex/getting-started.html)
 and the [online documentation](http://hexdocs.pm/nebulex/Nebulex.html)
 for more information.
